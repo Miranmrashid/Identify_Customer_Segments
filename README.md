@@ -13,4 +13,4 @@ The data is provided by Bertelsmann partners AZ Direct and Arvato Financial Solu
 
 
 # A credit to Udacity
-This project is part of the Udacity Nanodegree, therefore the Template is provided By Udacity.
+This project is part of the Udacity Nanodegree.
