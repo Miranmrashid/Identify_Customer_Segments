@@ -28,5 +28,5 @@ This step finally applies the model and trains it using Kmeans algorithm. afterw
 
 
 
-### A credit to BOSCH AI TALENT ACCELERATOR (Udacity)
+#### A credit to BOSCH AI TALENT ACCELERATOR (Udacity)
 This project is part of the Udacity Nanodegree.
